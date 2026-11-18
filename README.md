@@ -1,34 +1,40 @@
-![Sid Senthil — 11th grade. Software, robotics, and games.](https://raw.githubusercontent.com/sidsenthilkumar-dev/sidsenthilkumar-dev/main/assets/profile-header.svg)
+![sid senthil — 11th grade. software, robotics, and games.](https://raw.githubusercontent.com/sidsenthilkumar-dev/sidsenthilkumar-dev/main/assets/profile-header.svg)
 
-I'm Sid, an 11th grader building apps for school, working on robotics, and making a co-op Roblox game. Most of my work is in TypeScript and React, with Python, Java, and Luau along the way.
+i'm sid, an 11th grader building apps for school, working on robotics, and making a co-op roblox game. most of my work is in typescript and react, with python, java, and luau along the way.
 
-### Projects
+### projects
 
-| Project | What it does | Take a look |
+| project | what it does | take a look |
 | :--- | :--- | :--- |
-| **Collapse** | Tasks, assignment feedback, email drafts, and deadlines in one student workspace. Started as Signal. | [Overview](https://github.com/sidsenthilkumar-dev/Signalapp) |
-| **Rebound** | Recovery check-ins, movement guides, and experimental camera-based rep counting. My **Congressional App Challenge** project. | [Code](https://github.com/sidsenthilkumar-dev/congressapp) · [Demo](https://congress-two.vercel.app/#today) |
-| **The Better Study** | Turns course materials into practice questions, flashcards, notes, and guided study sessions. | [Try it](https://the-better-study.vercel.app/) |
-| **Defend the Hatchery** | A co-op Roblox game about hatching pets and protecting a shared egg nest through enemy waves. | Source not published yet |
+| **collapse** | tasks, assignment feedback, email drafts, and deadlines in one student workspace. started as signal. | [overview](https://github.com/sidsenthilkumar-dev/Signalapp) |
+| **rebound** | recovery check-ins, movement guides, and experimental camera-based rep counting. my **congressional app challenge** project. | [code](https://github.com/sidsenthilkumar-dev/congressapp) · [demo](https://congress-two.vercel.app/#today) |
+| **the better study** | turns course materials into practice questions, flashcards, notes, and guided study sessions. | [try it](https://the-better-study.vercel.app/) |
+| **defend the hatchery** | a co-op roblox game about hatching pets and protecting a shared egg nest through enemy waves. | source not published yet |
 
-### A closer look
+### small projects
 
-**Collapse**  
-Quick task capture is only part of it. Assignment review turns missing requirements into tasks, and the email workspace lets you edit a draft before sending it. The interface keeps the work in focus.  
-<sub>React · TypeScript · Vite · Node.js · Source currently private</sub>
+[camera tracker, pathfinder, gravity sandbox, reaction timer, typing practice, pixel pad, and basketball shot chart](https://github.com/sidsenthilkumar-dev/small-projects).
 
-**Rebound**  
-The camera feature uses MediaPipe joint estimates to count reps on supported movements. It checks framing and pauses when tracking is lost. The journal and guided routines also work without camera tracking. It's a prototype, and tracking accuracy hasn't been clinically validated.  
-<sub>React · TypeScript · MediaPipe Pose · Expo</sub>
+seven new browser experiments with setup notes and checks. the camera tracker uses a pretrained mediapipe model.
 
-**The Better Study**  
-A wrong answer starts a guided step, then gives the student another problem using the same skill. Saved practice, editable notes, and separate subject progress keep studying organized across sessions.  
-<sub>JavaScript · Vercel serverless functions · Supabase · Source currently private</sub>
+### a closer look
 
-**Defend the Hatchery**  
-Players prepare during the day and defend the nest at night. Pets fight alongside the team. The project is built around Luau and a Rojo structure.  
-<sub>Roblox · Luau · Rojo · In development</sub>
+**collapse**  
+quick task capture is only part of it. assignment review turns missing requirements into tasks, and the email workspace lets you edit a draft before sending it. the interface keeps the work in focus.  
+<sub>react · typescript · vite · node.js · source currently private</sub>
+
+**rebound**  
+the camera feature uses mediapipe joint estimates to count reps on supported movements. it checks framing and pauses when tracking is lost. the journal and guided routines also work without camera tracking. it's a prototype, and tracking accuracy hasn't been clinically validated.  
+<sub>react · typescript · mediapipe pose · expo</sub>
+
+**the better study**  
+a wrong answer starts a guided step, then gives the student another problem using the same skill. saved practice, editable notes, and separate subject progress keep studying organized across sessions.  
+<sub>javascript · vercel serverless functions · supabase · source currently private</sub>
+
+**defend the hatchery**  
+players prepare during the day and defend the nest at night. pets fight alongside the team. the project is built around luau and a rojo structure.  
+<sub>roblox · luau · rojo · in development</sub>
 
 ---
 
-Outside these projects: robotics, basketball, and piano.
+outside these projects: robotics, basketball, and piano.
