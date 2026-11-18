@@ -24,6 +24,12 @@ A co-op Roblox game project where players hatch pets, prepare defenses, and prot
 
 Built around Luau and Rojo. The game source hasn't been published here yet.
 
+## The Better Study
+
+A study app for AP and honors classes. Students can upload course materials and use them to make practice questions, flashcards, notes, and guided study sessions.
+
+[Try The Better Study](https://the-better-study.vercel.app/) · Source repository is currently private.
+
 ## What I work with
 
 Python, Java, JavaScript, TypeScript, React, Luau, APIs, and databases.
