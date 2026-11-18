@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Sid Senthil. 11th grade. Software, robotics, and games.">
+<rect width="1200" height="330" fill="#101315"/>
+<path d="M0 329H1200" stroke="#b8ed6c" stroke-width="2"/>
+<g fill="none" stroke="#252b2e" stroke-width="1">
+<path d="M790 0V330M840 0V330M890 0V330M940 0V330M990 0V330M1040 0V330M1090 0V330M1140 0V330M1190 0V330"/>
+<path d="M790 30H1200M790 80H1200M790 130H1200M790 180H1200M790 230H1200M790 280H1200"/>
+</g>
+<text x="50" y="52" fill="#b8ed6c" font-family="monospace" font-size="16" letter-spacing="2">11TH GRADE / STUDENT DEVELOPER</text>
+<text x="46" y="152" fill="#f3f3ed" font-family="Arial,Helvetica,sans-serif" font-size="94" font-weight="700" letter-spacing="-4">Sid Senthil.</text>
+<text x="50" y="204" fill="#a9b2b5" font-family="Arial,Helvetica,sans-serif" font-size="23">Software, robotics, and games.</text>
+<path d="M50 250H740" stroke="#343b3f"/>
+<text x="50" y="288" fill="#d3d9d8" font-family="monospace" font-size="15">COLLAPSE</text>
+<text x="200" y="288" fill="#d3d9d8" font-family="monospace" font-size="15">REBOUND</text>
+<text x="340" y="288" fill="#d3d9d8" font-family="monospace" font-size="15">THE BETTER STUDY</text>
+<text x="570" y="288" fill="#d3d9d8" font-family="monospace" font-size="15">ROBLOX</text>
+<g transform="translate(850 62)" fill="none" stroke="#b8ed6c" stroke-width="2">
+<path d="M0 125L90 75L180 125L90 175Z"/>
+<path d="M0 95L90 45L180 95L90 145Z"/>
+<path d="M0 65L90 15L180 65L90 115Z"/>
+<path d="M90 15V175" opacity=".45"/>
+<circle cx="90" cy="15" r="5" fill="#b8ed6c"/>
+</g>
+</svg>
