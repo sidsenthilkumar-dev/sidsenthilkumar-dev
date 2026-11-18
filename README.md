@@ -1,16 +1,29 @@
-## Hi there 👋
+# Sid Senthil
 
-<!--
-**sidsenthilkumar-dev/sidsenthilkumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student interested in software, AI, robotics, and game development. These are a few projects I've been working on.
 
-Here are some ideas to get you started:
+## Collapse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A student productivity app I started as Signal. It brings tasks, assignment feedback, email drafts, and deadlines into one workspace.
+
+Built with React, TypeScript, Vite, and Node.js.
+
+[Project overview](https://github.com/sidsenthilkumar-dev/Signalapp) · Application source is currently private.
+
+## Rebound
+
+My Congressional App Challenge project. Rebound helps people keep track of recovery routines through daily check-ins, movement guides, and a progress journal. It also includes experimental camera-based rep counting.
+
+Built with React, TypeScript, and MediaPipe Pose, with an Expo mobile client.
+
+[Source code](https://github.com/sidsenthilkumar-dev/congressapp) · [Web app](https://congress-two.vercel.app/#today)
+
+## Defend the Hatchery
+
+A co-op Roblox game project where players hatch pets, prepare defenses, and protect a shared egg nest during enemy waves.
+
+Built around Luau and Rojo. The game source hasn't been published here yet.
+
+## What I work with
+
+Python, Java, JavaScript, TypeScript, React, Luau, APIs, and databases.
